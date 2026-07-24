@@ -1,0 +1,21 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import ForumComments from '../components/ForumComments.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Community Forum | ${SITE_TITLE}`} description="Ask questions and share advice about studying in South Korea." />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<ForumComments />
+		</main>
+		<Footer />
+	</body>
+</html>
