@@ -1,11 +1,5 @@
 ---
 title: 'How to Study in South Korea for Free (Without GKS)'
-pubDate: 'Jul 24 2026'
-category: 'roadmap'
----
-
----
-title: 'How to Study in South Korea for Free (Without GKS)'
 description: 'A complete guide to 100% tuition waivers, professor lab stipends, and research assistantships for international students.'
 pubDate: 'Jul 24 2026'
 heroImage: '../../assets/blog-placeholder-1.jpg'
