@@ -26,7 +26,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ## 3. When to Apply: The Korean University Admission Calendar
 
-*As far as I know, they usually open the application and admission twice a year. There will be 2 admission period which are for Spring Semester (semester begins in March)and Fall Semester (semester begins September). For the application/registration period : Spring Semester, it usually openSpring Semester, the application periodin different One will be around around January/February and you will start your semester around Spring (March) & another will be around July/August and you will start your semester during Fall (September). Also, need to be aware that each admission sometimes have different amount of fundings, it depends on the government regulations (I guess), but the differences is not that much.*
+*As far as I know, they usually open the application and admission twice a year. There will be 2 admission period which are for Spring Semester (semester begins in March)and Fall Semester (semester begins September). For the application/registration period : Spring Semester, it usually open between September-October. For Fall Semester, it opens between March-April. Spring Semester, the application periodin different One will be around around January/February and you will start your semester around Spring (March) & another will be around July/August and you will start your semester during Fall (September). Also, need to be aware that each admission sometimes have different amount of fundings, it depends on the government regulations (I guess), but the differences is not that much.*
 
 ---
 
