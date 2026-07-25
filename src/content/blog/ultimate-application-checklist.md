@@ -20,7 +20,7 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 
 ## 2. Apostille & Legalization Requirements Explained
 
-*This is the only parts that you need to spend a bit of money but only when you already got accepted by the university. Why? Because it deals with the government, official association, translating services and etc since they need to process your admission and visa process. Basically, all official documents that need to be bring outside of the country where you're staying and the one that I mentioned previously need to be notarize or apostille. In my case, the documents that I prepared to be notarize and apostille*
+*This is the only parts that you need to spend a bit of money but only when you already got accepted by the university. Why? Because it deals with the government, official association, translating services and etc since they need to process your admission and visa process. Basically, all official documents that need to be bring outside of the country where you're staying and the one that I mentioned previously need to be notarize or apostille. In my case, the documents that I prepared to be notarize and apostille : *
 
 ---
 
