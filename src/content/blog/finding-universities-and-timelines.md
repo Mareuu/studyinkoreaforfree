@@ -59,9 +59,9 @@ Since the core admission months are outlined above, here is a practical checklis
 
 * **6 Months Before Deadline:** 
   * Research target universities, departments, and specific professor research labs.
-  * Prepare for English proficiency exams (TOEFL/IELTS) or TOPIK if required.
+  * Prepare for English proficiency exams (TOEFL/IELTS) or TOPIK if required (for my cases, only IELTS Level 6 above are required).
 * **3 Months Before Deadline:** 
-  * Contact potential professors if applying for lab stipends (RA/TA positions).
+  * Contact potential professors to applying for lab stipends (RA/TA positions).
   * Request official academic transcripts, degree certificates, and recommendation letters from your current university.
 * **1 Month Before Deadline:** 
   * Draft and refine your Statement of Purpose (SOP) and Study Plan.
