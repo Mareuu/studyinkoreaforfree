@@ -30,7 +30,7 @@ That search led me to the **Gwangju Institute of Science & Technology (GIST)** i
 
 From my experience, the first step is identifying your field of interest and finding countries renowned for that specific specialization. Once you have a target region, you can begin shortlisting universities. However, **reading admission guidelines carefully before applying is critical.**
 
-When I first started my search, I looked into South Korea's prestigious "SKY" universities (Seoul National University, Korea University, and Yonsei University). However, many required mandatory application/registration fees. Because application fees are non-refundable—even if you aren't accepted or don't pass the interview stage—I wanted to minimize upfront costs as much as possible.
+When I first started my search, I looked into South Korea's prestigious "SKY" universities (Seoul National University, Korea University, and Yonsei University). However, many required mandatory application/registration fees. Because I am not really confident/sure if the application fees are refundable or not—even if you aren't accepted or don't pass the interview stage—I wanted to minimize upfront costs as much as possible.
 
 To find truly cost-free pathways, I created a spreadsheet tracking universities and checked their portals for hidden application fees. I filtered down my list until I found institutions with **zero application fees**. 
 
