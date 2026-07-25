@@ -14,7 +14,7 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 
 ## 1. Essential Academic & Personal Documents
 
-*List all core requirements like transcripts, degree certificates, passport copies, and language scores (TOEFL/IELTS/TOPIK).*
+*Of course, when you apply for the university, all the cor documents are required such as your degree transcript and certificates (if you're continuing Master's/Phd), passport copies & make sure your passport have more than 5/6 years of validity (this is to avoid you for needing to renew your visa again and again at the immigration office in South Korea later),and language score (TOEFL/IELTS/TOPIK). Tips : I think these days IELTS is a must and need to be higher than Level 6. Also, degree transcript and certificates is 2 different things. Transcript is the one with the list of your courses with the grade that you got and certificates is the one that you got when you graduated which state that you finish your degree and etc.*
 
 ---
 
