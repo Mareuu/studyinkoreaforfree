@@ -1,10 +1,4 @@
 ---
-title: 'How to Cold-Email Korean Professors for Lab Funding'
-pubDate: 'Jul 24 2026'
-category: 'roadmap'
----
-
----
 title: 'How to Cold-Email Korean Professors for Lab Funding (With Template)'
 description: 'The step-by-step guide to finding research labs, crafting high-converting emails, and securing a professor-funded RA position in South Korea.'
 pubDate: 'Jul 24 2026'
