@@ -14,22 +14,57 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 
 ## 1. My Journey: How I Discovered Funded Programs in Korea
 
-*I once had a dream to study abroad since I was in high school. I thought after finishing high school, I would be able to pursue my degree outside of my country (Malaysia). But, at that time, I dont have that much access or information on how do I pursue my study outside. Plus, I think at that time there are not many scholarship opened for studying oversea, only a few (around 2017). So, I've decided not to. But, for some reason, after I finish my bachelor (it was around 2023), I feel the urge to continue my study to higher level (for Master's). So, during my internship before finishing my bachelor, I did a lot of research myself especially studying oversea. Specifically, I was looking for a fully funded scholarship as I dont want to spend my money at all and of course not gonna burden my parents. Since I was so desperate on finding some opportunities, I keep searching "How to study for free", "How to study oversea without any fees/hidden cost". Well, turns out, there are only few universities offered these kind of things at that time (I'm pretty sure there's a lot more now). This is when it appears on the search results about a university in South Korea named 'GIST' (Gwangju Institute of Science & Technology). Since I was one of student under STEM field, so this university was alligned with my field. The reason why I choose South Korea is because of K-POP definitely, but also I was thinking to work in the big company (such as Samsung, Hyundai, Kia, etc.) here after I finish my Master's. Add your story here about how you first started looking for universities, why you chose South Korea, and how you realized full tuition waivers and lab stipends were possible.*
+I have dreamt of studying abroad ever since high school. Back then, I assumed I would pursue my degree outside Malaysia right after finishing school, but I didn't have much information or guidance on how to make it happen. Overseas scholarships were also quite limited around 2017, so I decided to put that dream on hold for a while.
+
+However, toward the end of my bachelor's degree in 2023, I felt a strong urge to pursue my Master's degree. During my internship, I began researching study-abroad opportunities intensely. My primary goal was to find a **fully funded scholarship**—I wanted to avoid heavy financial costs and didn't want to burden my parents.
+
+Desperate to find viable options, I spent hours searching Google for phrases like:
+* *"How to study abroad for free"*
+* *"Study abroad without application fees or hidden costs"*
+
+That search led me to the **Gwangju Institute of Science & Technology (GIST)** in South Korea. Since my background was in STEM, GIST was an ideal research fit. Beyond my love for Korean culture and K-Pop, I was drawn to South Korea because of its strong tech ecosystem and the opportunity to build a career at global companies like Samsung, Hyundai, and Kia after graduation.
 
 ---
 
 ## 2. How to Find and Shortlist the Right Universities
 
-*From my experienced, to find this, first you need to know which field are you interested in and which country is popular or expert in that field. Once you know these, then you're good to go to find the university of your choices, but make sure to read the guidelines, explanation and how to apply into that university properly before applying further. The reason why I said this, is because, I once try to apply for those SKY university (the top prestigious university) in South Korea, but, they require you to pay some amount of money for registration fee. For me, I tried to avoid this kind of application as much as possible because I dont know if we're gonna get the refund if we didnt pass the interview or their entrance test exam & etc. So, based on all the university I found, I create a list of those university and open their application/registration website/form to see if there are any hidden fees I need to pay when applying. So, this is where I filter out more and more until I found the one that doesnt require any application/registration fees. This is literally what I meant by 'zero cost' application, easy and direct application (cuz if you fail the interview or the entrance test exam, nothing to regret). But, please make sure to really read their guidelines, the courses they offer, also be alert on their admission schedule.*
+From my experience, the first step is identifying your field of interest and finding countries renowned for that specific specialization. Once you have a target region, you can begin shortlisting universities. However, **reading admission guidelines carefully before applying is critical.**
+
+When I first started my search, I looked into South Korea's prestigious "SKY" universities (Seoul National University, Korea University, and Yonsei University). However, many required mandatory application/registration fees. Because application fees are non-refundable—even if you aren't accepted or don't pass the interview stage—I wanted to minimize upfront costs as much as possible.
+
+To find truly cost-free pathways, I created a spreadsheet tracking universities and checked their portals for hidden application fees. I filtered down my list until I found institutions with **zero application fees**. 
+
+This approach removed financial risk entirely: applying cost nothing but time, meaning there was zero financial regret if an application wasn't successful.
+
+> **Pro-Tip:** Always thoroughly review the specific courses offered, department research areas, and admission schedules before adding a university to your shortlist.
 
 ---
 
 ## 3. When to Apply: The Korean University Admission Calendar
 
-*As far as I know, they usually open the application and admission twice a year. There will be 2 admission period which are for Spring Semester (semester begins in March)and Fall Semester (semester begins September). For the application/registration period : Spring Semester, it usually open between September-October. For Fall Semester, it opens between March-April. Also, please be aware that each admission sometimes have different amount of fundings, it depends on the government regulations (I guess), but the differences is not that much.*
+Most Korean universities open international admissions **twice a year**:
+
+1. **Spring Semester (Classes start in March):**
+   * **Application Window:** Usually opens between **September and October** of the preceding year.
+2. **Fall Semester (Classes start in September):**
+   * **Application Window:** Usually opens between **March and April** of the same year.
+
+*Note: Funding quotas and available lab positions may vary slightly between Spring and Fall intake cycles depending on government research grants and university budget allocations, but the core application requirements remain the same.*
 
 ---
 
-## 4. Key Admission Opening Windows & Deadlines
+## 4. Key Admission Opening Windows & Preparation Timeline
 
-*List the exact months and timeframes when application portals open and close so applicants don't miss them.*
+Since the core admission months are outlined above, here is a practical checklist to help you stay ahead of official deadlines:
+
+* **6 Months Before Deadline:** 
+  * Research target universities, departments, and specific professor research labs.
+  * Prepare for English proficiency exams (TOEFL/IELTS) or TOPIK if required.
+* **3 Months Before Deadline:** 
+  * Contact potential professors if applying for lab stipends (RA/TA positions).
+  * Request official academic transcripts, degree certificates, and recommendation letters from your current university.
+* **1 Month Before Deadline:** 
+  * Draft and refine your Statement of Purpose (SOP) and Study Plan.
+  * Have your degree certificates and transcripts notarized or apostilled.
+* **Application Week:** 
+  * Submit online forms early to avoid portal crashes on deadline day.
