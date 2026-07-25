@@ -20,7 +20,7 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 
 ## 2. Apostille & Legalization Requirements Explained
 
-*Explain the process of getting documents notarized or apostilled and common mistakes to avoid.*
+*This is the only parts that you need to spend a bit of money. Why? Because it deals with the government, official association, translating services and etc.Explain the process of getting documents notarized or apostilled and common mistakes to avoid.*
 
 ---
 
