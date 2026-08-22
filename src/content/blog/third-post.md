@@ -1,16 +1,71 @@
 ---
-title: 'Third post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 22 2022'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+title: "After You're Accepted: Visa, Housing & Your First Month's Budget in Korea"
+description: 'The practical logistics once a professor confirms your funded spot — the D-2 student visa process, finding housing near campus, and what your stipend needs to cover in the first month.'
+pubDate: 'Aug 22 2026'
+heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Getting the professor's confirmation is the hard part. What comes next is mostly paperwork and logistics — but it's easy to underestimate, and a few of these steps have long lead times. Here's the order things actually happen in.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+---
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+## 1. Get Your Official Documents First
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Before you can do anything visa-related, you need two documents from the university/lab:
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+* **Certificate of Admission** (official acceptance letter from the university)
+* **Confirmation of funding/scholarship** (a letter from the professor or graduate school stating tuition waiver and/or stipend amount)
+
+Ask for both explicitly — professors sometimes assume the graduate office will send them, and the graduate office sometimes assumes the professor already did.
+
+---
+
+## 2. The D-2 Student Visa
+
+* Apply at the Korean embassy/consulate in your home country, generally **1–2 months before your program start date**.
+* Required documents typically include: passport, Certificate of Admission, proof of funding or financial capacity, passport photo, and the visa application form.
+* Processing time varies by country/consulate — check your specific embassy's current timeline rather than assuming a fixed number of days.
+* Once you arrive in Korea on a D-2 visa, you'll register for an **Alien Registration Card (ARC)** within 90 days — you'll need this for almost everything afterward (bank account, phone plan, health insurance).
+
+---
+
+## 3. Housing Near Campus
+
+Two common paths:
+
+* **University dormitory** — usually the cheapest option, but spots are competitive and often prioritized for first-year/first-semester students. Apply as early as the housing portal opens.
+* **Officetel or one-room near campus** — more expensive, but flexible and easier to secure last-minute. Expect a security deposit (보증금, "key money") that's refunded when you move out, plus monthly rent.
+
+If the dorm application window has already closed by the time you're accepted, don't panic — most university towns near major labs (Daejeon, Ulsan, Gwangju, Seoul) have a steady supply of student housing near campus gates.
+
+---
+
+## 4. First-Month Budget Reality Check
+
+Your stipend covers ongoing living costs, but the **first month has extra one-time costs** most students don't budget for:
+
+| Item | Notes |
+|---|---|
+| Housing deposit | Only if renting privately, not applicable to dorms |
+| SIM card / phone plan | Prepaid plans are easiest before you have an ARC |
+| National Health Insurance (NHIS) | Enrollment is generally automatic for registered students; check with your school |
+| T-money transit card | One-time card cost + top-up for buses/subway |
+| Basic living supplies | Bedding, kitchenware if not provided by the dorm |
+
+Budget for these separately from your regular monthly stipend so the first month doesn't feel unexpectedly tight.
+
+---
+
+## 5. Open a Korean Bank Account
+
+You'll need your **ARC** before most banks will open an account for you, and your stipend is typically paid into a Korean account. This creates a short gap between arrival and your first stipend payment — bring enough cash or an internationally usable card to cover roughly the first two to three weeks.
+
+---
+
+## Quick Pre-Departure Checklist
+
+- [ ] Certificate of Admission + funding letter in hand
+- [ ] D-2 visa approved and stamped
+- [ ] Dorm application submitted (or private housing arranged)
+- [ ] Enough funds for the first 2–3 weeks before your account/stipend is active
+- [ ] Copies (physical + digital) of passport, visa, admission letter, and funding letter

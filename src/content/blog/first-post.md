@@ -1,16 +1,63 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+title: 'The Video Interview: What Korean Professors Actually Ask (And How to Prepare)'
+description: 'What happens after a professor replies to your cold email — the typical interview format, the questions professors actually ask, and how to leave a strong impression.'
+pubDate: 'Aug 20 2026'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+So a professor replied to your cold email. Congratulations — that alone puts you ahead of most applicants, since a huge share of emails never get a response at all. But a reply is not an offer. The next step is almost always a short video interview, and how you handle it decides whether you get a funded seat in the lab.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+---
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+## 1. What the Interview Actually Looks Like
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Most first interviews with Korean professors are informal compared to a Western academic interview:
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+* **Platform:** Usually Zoom or Google Meet, occasionally KakaoTalk video for a quick chat.
+* **Length:** 20–40 minutes.
+* **Who's in the room:** Sometimes it's just the professor. Sometimes a senior PhD student or lab manager joins to ask technical questions while the professor observes.
+* **Format:** Conversational, not a rigid Q&A. Expect it to jump between your background, the lab's current projects, and logistics (intake date, visa, funding).
+
+Don't expect a whiteboard coding test or a formal thesis defense. The goal for the professor is simple: *can this person do useful work in my lab, and will they actually show up next semester?*
+
+---
+
+## 2. Questions Professors Actually Ask
+
+* "Walk me through your undergraduate thesis or final-year project."
+* "Why our lab specifically, and not another one working on similar topics?"
+* "What tools/languages have you used — Python, PyTorch, MATLAB, CAD, etc.?"
+* "Do you have any papers, even a poster or workshop paper?"
+* "When can you start — Spring or Fall intake?"
+* "Are you talking to other labs or professors right now?"
+
+That last question is not a trap. Professors ask it because RA funding is limited and they want to know how quickly they need to decide. Being honest ("I've emailed a few labs, but yours is my top choice because of X") tends to work in your favor.
+
+---
+
+## 3. How to Prepare
+
+* **Re-read 2–3 of their recent papers** the night before. Be ready to say one specific thing you found interesting about each.
+* **Prepare a 2-minute summary** of your thesis/project — what problem it solved, what you personally did, and what the result was.
+* **Have your own questions ready** (see below). Professors notice when an applicant asks nothing back.
+* **Test your camera, mic, and internet** ahead of time — video call issues make a worse impression than people think.
+
+---
+
+## 4. Questions You Should Ask Them
+
+This interview goes both ways. Before you accept a lab, get clear on:
+
+* Is the funding **full tuition waiver + monthly stipend**, or tuition-only?
+* What is the **monthly stipend amount**, and is it guaranteed for the full degree or year-by-year?
+* What are the **expected weekly hours** as an RA?
+* Will they **sponsor the visa documents** (Certificate of Admission) once you're accepted?
+* How many other students are currently in the lab, and is there space for a new one this intake?
+
+If a professor gets vague or dodges these, that's worth noting — not necessarily a dealbreaker, but a signal to ask more before committing.
+
+---
+
+## 5. After the Call
+
+Send a short thank-you email within 24 hours. Two or three sentences is enough: thank them for their time, restate your interest in one line, and mention you're happy to send any additional materials (transcript, recommendation letters, portfolio). It costs you five minutes and keeps you top of mind while they're deciding between candidates.

@@ -15,6 +15,8 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
+const isProductionDeployment = process.env.VERCEL_ENV !== 'preview' && process.env.VERCEL_ENV !== 'development';
+
 const { title, description, image = FallbackImage } = Astro.props;
 ---
 
@@ -35,6 +37,7 @@ const { title, description, image = FallbackImage } = Astro.props;
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
+{!isProductionDeployment && <meta name="robots" content="noindex" />}
 
 <!-- Primary Meta Tags -->
 <title>{title}</title>
